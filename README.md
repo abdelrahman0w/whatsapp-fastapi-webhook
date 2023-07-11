@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple webhook for WhatsApp API written in FastAPI.
+A simple webhook for WhatsApp API using FastAPI.
 
 ## Dependencies
 
